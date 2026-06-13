@@ -21,6 +21,11 @@ The goal was to design and implement a database that supports key library operat
 - **Jupyter Notebook / `.ipynb`**
 - **Relational database modeling**
 
+## Main project file
+
+The main project file is located in `docs/Biblioteka_Dawid_Baldyga.ipynb`.  
+It contains the original notebook version of the database project, including the database design, SQL implementation, diagrams and explanations prepared for the university assignment.
+
 ## Database scope
 
 The database model includes the following main entities:
